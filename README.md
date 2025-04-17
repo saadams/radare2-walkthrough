@@ -1,5 +1,7 @@
 # Getting Started with R2
 
+> Disclaimer this was made for those new to reverse engineering and r2 if you are more advanced this might bore you :) 
+
 ## Introduction:
 
 Radare 2 is a powerfull open source reverse engineering tool and one that will be used in a large ammount of the PenPlatoon challenges. This is a guide on how to begin basic reverse engineering with r2.
