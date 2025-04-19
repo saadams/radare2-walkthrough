@@ -1,6 +1,6 @@
 # Getting Started with R2
 
-> This guide was made for students those who are new to reverse engineering and r2, if you are more advanced this might bore you. :) 
+> This guide was made for students and those who are new to reverse engineering and r2, if you are more advanced this might bore you. :) 
 
 ## Introduction:
 
